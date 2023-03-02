@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+body {
+    background-color: black;
+}
+nav {
+    height: 80px;
+}
+label.logo {
+    color: white;
+    font-size: 25px;
+    line-height: 80px;
+    padding: 0 100px;
+}
+nav ul {
+    position: absolute;
+    top: 37px;
+    left: 39%;
+}
+nav ul li {
+    display: inline-block;
+    margin: 0 10px;
+}
+nav ul li a {
+    color: #D5D1D1;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+.get-in-touch {
+    float: right;
+    margin: 20px 150px;
+    background-color: yellow;
+    padding: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.heading1 {
+    color: white;
+    font-size: 50px;
+    padding: 100px 0 20px 100px
+}
+.text1 {
+    color: #D5D1D1;
+    font-size: 17px;
+    padding: 0 100px;
+}
+.companies {
+    padding: 50px 100px;
+}
+.logos {
+    margin: 0 63px;
+}
+.hop {
+    display: inline-block;
+    margin: 0 100px;
+}
+.hip {
+    color: white;
+    display: inline-block;
+    padding: 20px 100px;
+}
+.h1-spense {
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+.p-spense {
+    color: #D5D1D1;
+}
+.h1-yelpcamp {
+    font-size: 40px;
+    position: relative;
+    left: 135px;
+    bottom: 17px;
+}
+.p-yelpcamp {
+    color: #D5D1D1;
+    position: relative;
+    left: 137px;
+}
+.yolo {
+    color: white;
+    padding: 100px 100px;
+}
+.h1-yolo {
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+.p-yolo {
+    color: #D5D1D1;
+}
+.working {
+    background-color: yellow;
+    padding: 14px;
+    font-size: 17px;
+    width: 90px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+footer {
+    height: 83px;
+    background-color: #333D44;
+}
+.footer-heading {
+    line-height: 80px;
+    padding: 0 100px;
+    color: white;
+}
+.media {
+    float: right;
+    padding: 30px 20px;
+}
